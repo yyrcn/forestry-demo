@@ -30,7 +30,9 @@ fields:
   default: ''
 - type: list
   default:
-  - Cases
+  - case3
+  - Case2
+  - Case1
   label: Cases
   name: cases
   description: Cases list
