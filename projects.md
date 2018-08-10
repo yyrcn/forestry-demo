@@ -21,4 +21,4 @@ menu:
     weight: 2
 
 ---
-Projects by Belkirk CollegeProjects by Belkirk CollegeProjects by Belkirk CollegeProjects by Belkirk CollegeProjects by Belkirk CollegeProjects by Belkirk CollegeProjects by Belkirk CollegeProjects by Belkirk CollegeProjects by Belkirk CollegeProjects by Belkirk College
+{{case}}
