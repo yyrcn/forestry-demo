@@ -26,6 +26,7 @@ fields:
   name: banner_image
   label: Banner Image
   description: Ideal dimensions 2500px by 1200px
+  default: "/uploads/2017/11/14/jeffrey-wegrzyn-183858.jpg"
 - type: list
   name: related_posts
   label: Related Posts
@@ -47,3 +48,4 @@ fields:
   label: " Color Picker"
   name: _color_picker
   description: " Color Picker"
+  default: rgb(189, 16, 224)
