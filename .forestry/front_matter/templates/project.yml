@@ -28,3 +28,9 @@ fields:
   type: text
   hidden: false
   default: ''
+- type: list
+  default:
+  - Cases
+  label: Cases
+  name: cases
+  description: Cases list
