@@ -39,3 +39,11 @@ fields:
   type: text
   hidden: true
   default: post
+- type: text
+- type: field_group_list
+- type: color
+  config:
+    color_format: RGB
+  label: " Color Picker"
+  name: _color_picker
+  description: " Color Picker"
