@@ -36,3 +36,5 @@ fields:
   label: Cases
   name: cases
   description: Cases list
+pages:
+- projects.md
