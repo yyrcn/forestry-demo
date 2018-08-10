@@ -8,9 +8,13 @@ sub_heading: Advisor
 thumbnail: "/uploads/2017/11/14/joseph-gonzalez-399972.jpg"
 email: martin@belkirkcollege.com
 linkedin: ''
-layout: 'person'
----
+layout: person
+menu:
+  navigation:
+    weight: 1
+    title: people
 
+---
 Martin Marino joined Belkirk in 2016 as an advisor and member of the Board.
 
 Martin has his master's degree in Finance and has started three successful engineering-related ventures since 2012, and currently advises the boards of United Technologies and Bechtel.
