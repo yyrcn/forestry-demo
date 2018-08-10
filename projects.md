@@ -9,7 +9,8 @@ cases:
 - case2
 - case1
 slug: Dimensions work best at 1200 pixels by 400 pixels
-sub_heading: 'Projects '
+sub_heading: Projects by me
+tags: []
 menu:
   navigation:
     identifier: _projects
