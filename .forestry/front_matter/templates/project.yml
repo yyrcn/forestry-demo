@@ -6,17 +6,18 @@ fields:
 - type: text
   name: title
   label: Title
+  default: Projects
 - name: sub_heading
   label: Sub Heading
   type: text
   hidden: false
-  default: ''
+  default: Projects by Belkirk College
 - name: banner_image
   label: Banner Image
   type: file
   description: Dimensions work best at 1200 pixels by 400 pixels
   hidden: false
-  default: ''
+  default: "/uploads/2018/02/17/bridge.jpg"
 - name: tags
   label: Tags
   type: tag_list
