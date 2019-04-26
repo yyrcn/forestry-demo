@@ -1,0 +1,21 @@
+sections:
+
+- type: document
+  label: Help
+  path: README.md
+  read_only: true
+
+- type: heading
+  label: Content
+
+- type: jekyll-pages
+  label: Pages
+
+- type: jekyll-posts
+  label: Posts
+
+- type: directory
+  path: _events
+  label: Events
+  templates:
+  - event
